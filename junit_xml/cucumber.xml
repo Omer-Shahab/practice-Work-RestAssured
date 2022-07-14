@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="5.666713">
+<testcase classname="Click on the Upload And Download" name="Upload image and download" time="5.666713">
+<system-out><![CDATA[Given The title of Login page...............................................passed
+When User enters "omer_test" and "Omer2@38".................................passed
+Then User clicks on Elements................................................passed
+Then User select upload and Download from accordion tab.....................passed
+Then User select Choose file and Upload.....................................passed
+Then Download the file......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
